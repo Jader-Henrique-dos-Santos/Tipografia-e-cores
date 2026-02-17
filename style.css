@@ -24,11 +24,11 @@ img {
   border-radius: 0.6rem;
   width: 40%;
   height: auto; 
-  transition: transform 0.3s ease; 
+  transition: transform 0.15s ease; 
 }
 
 img:hover {
-  transform: scale(1.2); 
+  transform: scale(1.05); 
 }
 
 h1 {
